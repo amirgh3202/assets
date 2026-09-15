@@ -1,0 +1,23 @@
+{
+  "name": "Baby Doge X",
+  "type": "BEP20",
+  "symbol": "BDX",
+  "decimals": 18,
+  "description": "Baby Doge X (BDX) is a BEP-20 token on BNB Smart Chain.",
+  "website": "https://baby-doge-x.pages.dev",
+  "explorer": "https://bscscan.com/token/0x09FdFE484B390b5ceC03A6BaDB4E4a2fD5a88762",
+  "id": "0x09FdFE484B390b5ceC03A6BaDB4E4a2fD5a88762",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://baby-doge-x.pages.dev"
+    },
+    {
+      "name": "explorer",
+      "url": "https://bscscan.com/token/0x09FdFE484B390b5ceC03A6BaDB4E4a2fD5a88762"
+    }
+  ],
+  "tags": [
+    "meme-token"
+  ]
+}
